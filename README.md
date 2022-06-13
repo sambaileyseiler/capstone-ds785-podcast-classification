@@ -5,6 +5,6 @@ This GitHub project stores 6 Python notebooks used for a capstone project for pa
 The notebooks are split between 2 data sources: Metadata and Transcripts
 Each data source has 3 notebooks which are meant to run in the following order:
 
-1-Data acquisition + cleaning
-2-Exploratory Data Analysis
-3-Modeling
+1-Data acquisition + cleaning <br>
+2-Exploratory Data Analysis <br>
+3-Modeling <br>
